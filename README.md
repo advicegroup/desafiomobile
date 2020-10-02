@@ -31,8 +31,8 @@ Endpoints para as consultas
 
 ### Importante saber
 
-O código do projeto é seu. Nós não utilizaremos nenhum código implementado nesse desafio técnico nos projetos da Advice Group.
+**O código do projeto é seu**. Nós não utilizaremos nenhum código implementado nesse desafio técnico nos projetos da Advice Group.
 
 Sinta-se livre para modificar a interface do aplicativo (paleta de cor, imagens, fonte, posicionamento dos componentes), mas não saia do escopo definido para as regras de negócio.
 
-Let´s code!
+**Let´s code!**
