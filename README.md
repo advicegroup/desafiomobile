@@ -8,6 +8,10 @@ O desafio consiste em, a partir de uma interface projetada no Figma, realizar o 
 
 É necessário utilizar o framework [React Native](https://reactnative.dev) na concepção do projeto.
 
+### Prazo
+
+O prazo para realização do desafio é até as 23:59 do dia 7 de outubro de 2020.
+
 ### O que será avaliado
 
 - Instruções detalhadas para execução em ambiente local do seu projeto;
