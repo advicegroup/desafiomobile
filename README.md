@@ -8,17 +8,17 @@ O desafio consiste em a partir de uma interface projetada no Figma realizar o de
 
 É necessário utilizar o framework [React Native](https://reactnative.dev) na concepção do projeto.
 
-###O que será avaliado
+### O que será avaliado
 
 - Instruções detalhadas para execução em ambiente local do seu projeto;
 - Explicação da estrutura utilizada no projeto;
 - Descrição de como você organizou cada etapa do desenvolvimento até a sua finalização.
 
-###Diferenciais
+### Diferenciais
 
 - Testes (de unidade, de interface, etc.).
 
-###Links
+### Links
 
 Template base no Figma
 - https://www.figma.com/file/Z0D58LgNvo4hO8o4u1vv7r/AdviceHub
@@ -28,10 +28,10 @@ Endpoints para as consultas
 - GET https://api.github.com/users/facebook
 - GET https://api.github.com/users/facebook/repos
 
-###Importante saber
+### Importante saber
 
 O código do projeto é seu. Nós não utilizaremos nenhum código implementado nesse desafio nos projetos da Advice Group.
 
 Sinta-se livre para modificar a interface do aplicativo (paleta de cor, imagens, fonte, posicionamento dos componentes), mas não saia do escopo definido para as regras de negócio.
 
-Let´s code! 
+Let´s code!
